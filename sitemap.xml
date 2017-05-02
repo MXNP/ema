@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://mxnp.github.io/ema/index.html</loc>
+    <lastmod>2017-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mxnp.github.io/ema/assets/thegoodsline-final-mixdown-1_01.mp3</loc>
+    <lastmod>2017-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mxnp.github.io/ema/images/ic_pin_drop_white_48px.svg</loc>
+    <lastmod>2017-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

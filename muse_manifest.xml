@@ -1,0 +1,35 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mxnp.github.io/ema" resolutions="1x,2x" timestamp="1493744377652">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="289213365" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="apercu-bold-webfont.woff" crc="4183092314"/>
+    <file name="apercu-bold-webfont.eot" crc="21351868"/>
+    <file name="apercu-regular-webfont.woff" crc="373072522"/>
+    <file name="apercu-regular-webfont.eot" crc="3845831312"/>
+    <file name="apercu-mono-webfont.woff" crc="331946448"/>
+    <file name="apercu-mono-webfont.eot" crc="354474332"/>
+    <file name="apercu-medium-webfont.woff" crc="3951871183"/>
+    <file name="apercu-medium-webfont.eot" crc="129134195"/>
+  </folder>
+  <folder name="assets">
+    <file name="thegoodsline-final-mixdown-1_01.mp3" crc="74597609" seo="true" mt="1493739682000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ic_pin_drop_white_48px.svg" crc="8442248" seo="true" ref="index"/>
+    <file name="ic_pin_drop_white_48px_poster_.png" crc="4098752228" ref="index"/>
+    <file name="goodsline-night-panorama-1600-darker2400x592.jpg" crc="446219403" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3991988220" seo="true" mt="1493744313534" redirect="true"/>
+</manifest>
